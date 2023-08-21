@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+.body {
+  font-size: large;
+  color: blue;
+  background-color: black;
+}
